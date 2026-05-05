@@ -374,7 +374,7 @@ This publication, including all sections and worked examples herein, is publicly
 
 | Platform | Date | URL / Evidence |
 |---|---|---|
-| GitHub (this repository, public commit) | May 4, 2026 | https://github.com/apbakst/minoxidil-er-public-domain |
+| GitHub (this repository, public commit) | May 4, 2026 | https://github.com/apbakst/lipid-matrix-er-disclosures |
 | Archive.org (Wayback Machine snapshot) | (to be captured upon publication) | https://web.archive.org |
 | File hashes (SHA-256, this file) | (computed at commit) | `FILE_HASHES.txt` |
 
